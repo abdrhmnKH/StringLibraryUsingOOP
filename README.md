@@ -115,8 +115,11 @@ RemovePunctuations() -->	Removes punctuation characters
 Example
 
 clsString String3("hi how are you?");
+
 String3.UpperAllString();
+
 cout << String3.Value << endl;
+
 
 Output:
 HI HOW ARE YOU?
@@ -124,7 +127,9 @@ HI HOW ARE YOU?
 Another example:
 
 String3.Value = "Abd Al-Rahman KH Abdallah";
+
 String3.ReverseWords();
+
 cout << String3.Value << endl;
 
 Output:
