@@ -67,27 +67,49 @@ The project contains a clsString class with different functions for string opera
 
 ---------------------------------------------------------------------------------------
 Function -->	Description
+
 CountWords() -->	Counts the number of words in a string
+
 PrintFirstLetterOfEachWord() -->	Prints the first letter of each word
+
 UpperFirstLetterOfEachWord() -->	Converts the first letter of each word to uppercase
+
 LowerFirstLetterOfEachWord() -->	Converts the first letter of each word to lowercase
+
 UpperAllString() -->	Converts the whole string to uppercase
+
 LowerAllString() -->	Converts the whole string to lowercase
+
 InvertLetterCase() -->	Inverts the case of a character
+
 InvertAllLettersCase() -->	Inverts the case of all letters
+
 CountLetters() -->	Counts letters based on the selected type
+
 CountCapitalLetters() -->	Counts capital letters
+
 CountSmallLetters() -->	Counts small letters
+
 CountSpecificLetter() -->	Counts occurrences of a specific letter
+
 CountVowels() -->	Counts vowels in a string
+
 PrintVowels() -->	Prints the vowels in a string
+
 Split() -->	Splits a string into words
+
 TrimLeft() -->	Removes spaces from the left
+
 TrimRight() -->	Removes spaces from the right
+
 Trim() -->	Removes spaces from both sides
+
 ReverseWords() -->	Reverses the order of words
+
 ReplaceWord() -->	Replaces a word with another word
+
 RemovePunctuations() -->	Removes punctuation characters
+
 ---------------------------------------------------------------------------------------
 
 Example
